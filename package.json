@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Node-ExpressJs App Of Hello World",
   "main": "node_hello_world.js",
+  "engines": {
+    "node": ">=10"
+  },
   "scripts": {
     "test": "node {node_expressjs_file_name.js}"
   },
